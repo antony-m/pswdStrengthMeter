@@ -23,4 +23,4 @@ The plugin takes up confirmation field's id, and object "params" which has prope
         });
     ```
 
-Demo: http://jsfiddle.net/w01yr5qv/
+Demo: http://jsfiddle.net/w01yr5qv/2/
